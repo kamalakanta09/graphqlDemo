@@ -1,0 +1,4 @@
+graphene
+flask
+azure.cosmos
+datetime
